@@ -23,7 +23,7 @@ To run the project locally, follow these steps:
 1.  **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/keevas-marketplace.git
+   git clone https://github.com/ilhamputeraf/marketplace-pro.git
    ```
 
 2.  **Navigate into the project directory**
@@ -72,3 +72,8 @@ If you'd like to contribute to Keeva's Marketplace, feel free to fork the reposi
 2. Create a new branch for your feature or fix
 3. Make your changes and commit them
 4. Push your branch and open a pull request
+
+### Demo Link:
+```
+https://vercel.com/ilhamputerafs-projects/marketplace-pro/EgLYh375Zk3KRjS4pw4stwPVu1kY
+```
