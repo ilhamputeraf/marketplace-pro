@@ -75,5 +75,10 @@ If you'd like to contribute to Keeva's Marketplace, feel free to fork the reposi
 
 ### Demo Link:
 ```
-https://marketplace-20bldem73-ilhamputerafs-projects.vercel.app/
+https://marketplace-pro-two.vercel.app/
+
+If u want to try login u can register first and login using ur register email or u can use this:
+
+email : asd123@gmail.com
+password: asd123
 ```
