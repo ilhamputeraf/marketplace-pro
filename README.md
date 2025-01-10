@@ -75,5 +75,5 @@ If you'd like to contribute to Keeva's Marketplace, feel free to fork the reposi
 
 ### Demo Link:
 ```
-https://vercel.com/ilhamputerafs-projects/marketplace-pro/EgLYh375Zk3KRjS4pw4stwPVu1kY
+https://marketplace-20bldem73-ilhamputerafs-projects.vercel.app/
 ```
